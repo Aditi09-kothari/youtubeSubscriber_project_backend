@@ -51,6 +51,7 @@ node your-script.js
 
 ##  Usage
 1. Start the server:
+
 npm start
 
 2. Test the API endpoints using Postman or any other API testing tool.
